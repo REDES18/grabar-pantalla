@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Estilos mínimos opcionales para suavizar tipografía */
+:root {
+  color-scheme: light;
+}
